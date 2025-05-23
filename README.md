@@ -4,13 +4,13 @@ This is the final project for the **"The Odin Project - freeCodeCamp Remix"** co
 
 ---
 
-## 📋 Assignment Instructions
+##  Assignment Instructions
 
 Your game will be played against the computer. You will write a function that randomly returns `"rock"`, `"paper"` or `"scissors"`.
 
 You do not need to worry about the front-end part of the game. You will only write the logic for the game. Open the `script.js` and start following the instructions.
 
-### ✅ User Stories
+###  User Stories
 
 - You should have a function named `getComputerChoice`.
 - Your `getComputerChoice` function should return `"rock"`, `"paper"`, or `"scissors"` at random.
@@ -29,7 +29,7 @@ You do not need to worry about the front-end part of the game. You will only wri
 
 ---
 
-## ▶️ How to Play
+##  How to Play
 
 1. Open `index.html` in your browser.
 2. Open the browser console (press `F12`, or right-click → `Inspect` → Console tab).
@@ -40,7 +40,7 @@ You do not need to worry about the front-end part of the game. You will only wri
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3 (basic styling with `monospace` font)
@@ -48,7 +48,7 @@ You do not need to worry about the front-end part of the game. You will only wri
 
 ---
 
-## 🎯 Features
+##  Features
 
 - Fully functional Rock Paper Scissors game logic.
 - Input handled via `prompt()`.
@@ -58,16 +58,7 @@ You do not need to worry about the front-end part of the game. You will only wri
 
 ---
 
-## 🚀 Future Improvements
-
-- Add buttons and UI instead of prompt-based input.
-- Show dynamic score updates on the webpage.
-- Allow unlimited rounds or a "best of 5" mode.
-- Add sound effects or animations for fun feedback.
-
----
-
-## 📚 Credits
+##  Credits
 
 Built as part of **The Odin Project - freeCodeCamp Remix** course.  
 Created by Besto.
